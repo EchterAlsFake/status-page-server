@@ -17,7 +17,7 @@ status-website:
   introTitle: "Pixel 7 Pro Self-Hosted Services"
   theme: dark
   # Required if using the default github.io subdomain
-  baseUrl: /status-page
+  baseUrl: /status-page-server
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
