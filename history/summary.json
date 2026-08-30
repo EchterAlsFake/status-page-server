@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/echteralsfake.me.ico",
     "slug": "server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 455,
-    "timeWeek": 623,
-    "timeMonth": 637,
-    "timeYear": 637,
-    "dailyMinutesDown": {}
+    "uptime": "97.62%",
+    "uptimeDay": "53.24%",
+    "uptimeWeek": "93.32%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "97.62%",
+    "time": 631,
+    "timeDay": 467,
+    "timeWeek": 594,
+    "timeMonth": 631,
+    "timeYear": 631,
+    "dailyMinutesDown": {
+      "2026-08-30": 137,
+      "2026-08-29": 536
+    }
   }
 ]
