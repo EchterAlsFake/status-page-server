@@ -4,21 +4,21 @@
     "url": "https://echteralsfake.me/ping",
     "icon": "https://icons.duckduckgo.com/ip3/echteralsfake.me.ico",
     "slug": "server",
-    "status": "down",
-    "uptime": "95.25%",
-    "uptimeDay": "94.57%",
-    "uptimeWeek": "83.97%",
-    "uptimeMonth": "95.25%",
-    "uptimeYear": "95.25%",
-    "time": 670,
-    "timeDay": 0,
-    "timeWeek": 734,
-    "timeMonth": 670,
-    "timeYear": 670,
+    "status": "up",
+    "uptime": "94.75%",
+    "uptimeDay": "82.09%",
+    "uptimeWeek": "82.19%",
+    "uptimeMonth": "94.75%",
+    "uptimeYear": "94.75%",
+    "time": 684,
+    "timeDay": 1103,
+    "timeWeek": 788,
+    "timeMonth": 684,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2026-08-30": 1001,
       "2026-08-29": 536,
-      "2026-09-03": 78
+      "2026-09-03": 258
     }
   }
 ]
